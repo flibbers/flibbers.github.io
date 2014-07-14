@@ -12,20 +12,20 @@
 }
 
 .jumbotron {
-  /*background-image:url('http://goo.gl/04j7Nn');*/
-  background-image:url('http://38.media.tumblr.com/53de0adbfb5854c5bfcde679f8efe375/tumblr_n7apg7Nhed1r1pjv2o1_500.png');
-  height: 500px;
+  /*this is how you write a comment, but also find a good image to put here*/
+  background-color: #99e582;
+  height: 200px;
 }
 
 .jumbotron .container {
   position: relative;
-  top:100px;
+  top:50px;
 }
 
 .jumbotron h1 {
   color: #fff;
   font-size: 48px;  
-  font-family: 'Shift', sans-serif;
+  font-family: sans-serif;
   font-weight: bold;
 }
 
