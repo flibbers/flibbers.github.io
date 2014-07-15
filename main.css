@@ -1,6 +1,6 @@
 
 .nav a {
-  color: #bf9362;
+  color: #d5ffcb;
   font-size: 10px;
   font-weight: normal;
   padding: 14px 10px;
@@ -14,7 +14,7 @@
 
 .jumbotron {
   /*this is how you write a comment, but also find a good image to put here*/
-  background-color: #61abae;
+  background-color: #baddb1;
   height: 150px;
 }
 
@@ -33,6 +33,7 @@
   text-transform: uppercase;
   font-family: "Helvetica", sans-serif;
   font-size: 16px;
+  color: #d5ffcb;
 }
 
 .jumbotron h1 {
