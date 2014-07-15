@@ -46,7 +46,7 @@
   background-color: #d5ffcb;
 }
 
-.learn-more a {
+.learn-more .container .row {
   color: #baddb1;
   font-family: "Helvetica", sans-serif;
   font-size: 10px;
