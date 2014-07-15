@@ -1,6 +1,6 @@
 
 .nav a {
-  color: #99e582;
+  color: #bf9362;
   font-size: 10px;
   font-weight: normal;
   padding: 14px 10px;
@@ -13,7 +13,7 @@
 
 .jumbotron {
   /*this is how you write a comment, but also find a good image to put here*/
-  background-color: #99e582;
+  background-color: #61abae;
   height: 150px;
 }
 
@@ -43,7 +43,7 @@
 }
 
 .learn-more {
-  background-color: #f7f7f7;
+  background-color: #d5ffcb;
 }
 
 .learn-more h3 {
@@ -54,5 +54,5 @@
 }
 
 .learn-more a {
-  color: #00b0ff;
+  color: #1d3e18;
 }
