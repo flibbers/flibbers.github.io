@@ -5,6 +5,7 @@
   font-weight: normal;
   padding: 14px 10px;
   text-transform: uppercase;
+  font-family: "Helvetica", sans-serif;
 }
 
 .nav li {
@@ -22,9 +23,15 @@
   margin: center;
 }
 
+.jumbotron .container .p {
+  font-size: 12px;
+  font-family: "Helvetica", sans-serif;
+  color: #d5ffcb;
+}
+
 .container h2 {
   text-transform: uppercase;
-  font-family: "Helvetica", sans serif;
+  font-family: "Helvetica", sans-serif;
   font-size: 16px;
 }
 
