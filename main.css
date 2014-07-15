@@ -46,13 +46,10 @@
   background-color: #d5ffcb;
 }
 
-.learn-more h3 {
+.learn-more a {
+  color: #baddb1;
   font-family: "Helvetica", sans-serif;
-  font-size: 16px;
+  font-size: 10px;
   font-weight: normal;
   text-transform: uppercase;
-}
-
-.learn-more a {
-  color: #1d3e18;
 }
