@@ -37,7 +37,7 @@
 
 .jumbotron h1 {
   color: #fff;
-  font-size: 48px;  
+  font-size: 36px;  
   font-family: "Helvetica", sans-serif;
   font-weight: normal;
   text-transform: uppercase;
@@ -45,7 +45,7 @@
 
 .jumbotron p {
   font-family: "Helvetica", sans-serif;
-  font-size: 20px;
+  font-size: 14px;
   color: #fff;
 }
 
