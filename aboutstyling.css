@@ -49,11 +49,12 @@
   color: #fff;
 }
 
-.learn-more {
+.bottomline {
   background-color: #d5ffcb;
+  float: bottom;
 }
 
-.learn-more .container .row {
+.bottomline .container .row {
   color: #baddb1;
   font-family: "Century Gothic", sans-serif;
   font-size: 10px;
