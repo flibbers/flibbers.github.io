@@ -52,6 +52,7 @@
 
 .bottomline {
   background-color: #d5ffcb;
+  position: bottom;
 }
 
 .bottomline .container .row {
