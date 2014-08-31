@@ -42,7 +42,17 @@
   font-weight: normal;
   text-transform: uppercase;
 }
-
+h3 {
+  color: #282828;
+  font-size:12px;
+  font-family: "Century Gothic", sans-serif;
+}
+h4 {
+  color: #404040;
+  font-size:12px;
+  font-weight: italic;
+  font-family: "Century Gothic", sans-serif;
+}
 .jumbotron p {
   font-family: "Century Gothic", sans-serif;
   font-size: 14px;
