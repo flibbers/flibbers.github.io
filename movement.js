@@ -1,9 +1,10 @@
  $(document).ready(function() {
- 	 $('.thumbnail1').hover(function () {
-        this.src = '/images/signup_big_hover.png';
-    }, function () {
-        this.src = '/images/signup_big.png';
-    });
+ 	 $('.thumbnail1').bind('mouseenter mouseleave', function() {
+    $(this).attr({
+        src: $(this).attr('data-other-src') 
+        , 'data-other-src': $(this).attr('src') 
+    })
+});
  $('.thumbnail2').mouseenter(function() {
         $('.thumbnail2').fadeTo('fast', .25);
     });
