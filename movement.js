@@ -1,5 +1,5 @@
  $(document).ready(function() {
- 	 $('.thumbnail1').bind('mouseenter mouseleave', function() {
+ 	 $('img').bind('mouseenter mouseleave', function() {
     $(this).attr({
         src: $(this).attr('data-other-src') 
         , 'data-other-src': $(this).attr('src') 
