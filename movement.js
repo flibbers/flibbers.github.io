@@ -2,7 +2,6 @@
  $('.thumbnail1').mouseenter(function() {
         $('.thumbnail1').fadeTo('fast', .25);
     });
- $(document).ready(function() {
  $('.thumbnail1').mouseleave(function() {
  		$('thumbnail1').fadeTo('fast', 1);
  	}); 
