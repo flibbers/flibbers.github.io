@@ -3,7 +3,7 @@
         $('.thumbnail1').replaceWith('.thumbnail2');
     });
     $('.thumbnail1').mouseleave(function() {
-        $('.thumbnail2').replaceWith('thumbnail1');
+        $('.thumbnail2').replaceWith('.thumbnail1');
     });
  $('.thumbnail3').mouseenter(function() {
         $('.thumbnail3').fadeTo('fast', .25);
