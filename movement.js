@@ -2,6 +2,9 @@
     $('.thumbnail1').mouseenter(function() {
         $('.thumbnail1').replaceWith('<img src="http://33.media.tumblr.com/4d7f8d9187416216230e4bc29e1a8def/tumblr_nb5h6vWkap1r1pjv2o3_250.jpg">');
     });
+    $('<img src="http://33.media.tumblr.com/4d7f8d9187416216230e4bc29e1a8def/tumblr_nb5h6vWkap1r1pjv2o3_250.jpg">').mouseleave(function() {
+        $('<img src="http://33.media.tumblr.com/4d7f8d9187416216230e4bc29e1a8def/tumblr_nb5h6vWkap1r1pjv2o3_250.jpg">').replaceWith('.thumbnail1');
+    });
  $('.thumbnail3').mouseenter(function() {
         $('.thumbnail3').fadeTo('fast', .25);
     });
