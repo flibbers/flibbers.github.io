@@ -1,6 +1,6 @@
  $(document).ready(function() {
- $('.thumbnail').mouseenter(function() {
-        $('.thumbnail').fadeTo('fast', .25);
+ $('.thumbnail1').mouseenter(function() {
+        $('.thumbnail1').fadeTo('fast', .25);
     });
 });
 
