@@ -63,15 +63,5 @@
   text-transform: uppercase;
 }
 
-.thumbnail1:hover {
-    background-image: url(http://33.media.tumblr.com/4d7f8d9187416216230e4bc29e1a8def/tumblr_nb5h6vWkap1r1pjv2o3_400.jpg);
-}
-.thumbnail2:hover {
-    background-image: url(http://31.media.tumblr.com/c31e225e6657f6e66ccb5f0f1202ae3d/tumblr_nb5h6vWkap1r1pjv2o2_400.jpg);
-}
-.thumbnail2 {
-    background-image: url(https://33.media.tumblr.com/f446a364a8c732b957684ddd402141fd/tumblr_n8q6an9ALt1r1pjv2o3_400.jpg);
-}
-
 
 
