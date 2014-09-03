@@ -1,10 +1,4 @@
- $(document).ready(function() {
- $('.thumbnail2').mouseenter(function() {
-        $('.thumbnail2').fadeTo('fast', .25);
-    });
- $('.thumbnail2').mouseleave(function() {
- 		$('.thumbnail2').fadeTo('fast', 1);
- 	}); 
+ $(document).ready(function() { 
  $('.thumbnail3').mouseenter(function() {
         $('.thumbnail3').fadeTo('fast', .25);
     });
