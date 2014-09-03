@@ -1,10 +1,4 @@
  $(document).ready(function() {
- 	 $('img').bind('mouseenter mouseleave', function() {
-    $(this).attr({
-        src: $(this).attr('data-other-src') 
-        , 'data-other-src': $(this).attr('src') 
-    })
-});
  $('.thumbnail2').mouseenter(function() {
         $('.thumbnail2').fadeTo('fast', .25);
     });
