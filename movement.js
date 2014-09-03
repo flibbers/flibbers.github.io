@@ -1,9 +1,6 @@
  $(document).ready(function() {
     $('.thumbnail1').mouseenter(function() {
-        $('.thumbnail1').replaceWith('.thumbnail2');
-    });
-    $('.thumbnail1').mouseleave(function() {
-        $('.thumbnail2').replaceWith('.thumbnail1');
+        $('.thumbnail1').replaceWith('<img src="http://33.media.tumblr.com/4d7f8d9187416216230e4bc29e1a8def/tumblr_nb5h6vWkap1r1pjv2o3_250.jpg">');
     });
  $('.thumbnail3').mouseenter(function() {
         $('.thumbnail3').fadeTo('fast', .25);
