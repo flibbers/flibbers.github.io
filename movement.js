@@ -1,6 +1,6 @@
  $(document).ready(function() {
     $('.thumbnail1').mouseenter(function() {
-        $('.thumbnail1').replaceWith('<img src="http://33.media.tumblr.com/4d7f8d9187416216230e4bc29e1a8def/tumblr_nb5h6vWkap1r1pjv2o3_250.jpg">');
+        $('.thumbnail1').replaceWith('<img src="https://38.media.tumblr.com/64f6dc7040d8fcfb8e40ebe831373db9/tumblr_nb5h6vWkap1r1pjv2o3_r2_400.jpg">');
     }); 
     $('.thumbnail2').mouseenter(function() {
         $('.thumbnail2').replaceWith('<img src="http://31.media.tumblr.com/c31e225e6657f6e66ccb5f0f1202ae3d/tumblr_nb5h6vWkap1r1pjv2o2_400.jpg">');
