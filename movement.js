@@ -6,28 +6,16 @@
         $('.thumbnail2').replaceWith('<img src="http://31.media.tumblr.com/c31e225e6657f6e66ccb5f0f1202ae3d/tumblr_nb5h6vWkap1r1pjv2o2_400.jpg">');
     });
  $('.thumbnail3').mouseenter(function() {
-        $('.thumbnail3').fadeTo('fast', .25);
+        $('.thumbnail3').replaceWith('<img src="http://31.media.tumblr.com/76e42c52437ab9f99ed2d36646293d2f/tumblr_nb5h6vWkap1r1pjv2o1_400.jpg">');
     });
- $('.thumbnail3').mouseleave(function() {
- 		$('.thumbnail3').fadeTo('fast', 1);
- 	}); 
  $('.thumbnail4').mouseenter(function() {
-        $('.thumbnail4').fadeTo('fast', .25);
+        $('.thumbnail4').replaceWith('<img src="http://38.media.tumblr.com/91e2a672df0fd8ab416d4e9577c3f1c4/tumblr_nb5h6vWkap1r1pjv2o4_400.jpg">');
     });
- $('.thumbnail4').mouseleave(function() {
- 		$('.thumbnail4').fadeTo('fast', 1);
- 	});
-  $('.thumbnail5').mouseenter(function() {
-        $('.thumbnail5').fadeTo('fast', .25);
+ $('.thumbnail5').mouseenter(function() {
+        $('.thumbnail5').replaceWith('<img src="http://33.media.tumblr.com/8b18e139fe70e9be7b7bc0055a091f79/tumblr_nb5h6vWkap1r1pjv2o5_400.jpg">');
     });
- $('.thumbnail5').mouseleave(function() {
- 		$('.thumbnail5').fadeTo('fast', 1);
- 	});
-  $('.thumbnail6').mouseenter(function() {
-        $('.thumbnail6').fadeTo('fast', .25);
+ $('.thumbnail6').mouseenter(function() {
+        $('.thumbnail6').replaceWith('<img src="http://33.media.tumblr.com/3bc5759a73bc70c2018f6097b2e7d66d/tumblr_nb5h6vWkap1r1pjv2o6_400.jpg">');
     });
- $('.thumbnail6').mouseleave(function() {
- 		$('.thumbnail6').fadeTo('fast', 1);
- 	});
 });
 
