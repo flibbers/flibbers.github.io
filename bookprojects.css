@@ -1,4 +1,3 @@
-
 .nav a {
   color: #d8d8d8;
   font-size: 10px;
@@ -33,7 +32,7 @@
   text-transform: uppercase;
   font-family: "Century Gothic", sans-serif;
   font-size: 16px;
-  color: #C0C0C0;
+  color: #f0eeee;
 }
 
 .jumbotron h1 {
@@ -62,5 +61,4 @@
   font-weight: normal;
   text-transform: uppercase;
 }
-
 
