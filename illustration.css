@@ -1,0 +1,69 @@
+.nav a {
+  color: #d8d8d8;
+  font-size: 10px;
+  font-weight: normal;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  font-family: "Century Gothic", sans-serif;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  /*this is how you write a comment, but also find a good image to put here*/
+  background-color: #baddb1;
+  height: 150px;
+}
+
+.jumbotron .container {
+  position: relative;
+  margin: center;
+}
+
+.jumbotron .container .p {
+  font-size: 12px;
+  font-family: "Century Gothic", sans-serif;
+  color: #d5ffcb;
+}
+
+.container h2 {
+  text-transform: uppercase;
+  font-family: "Century Gothic", sans-serif;
+  font-size: 16px;
+  color: #C0C0C0;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 36px;  
+  font-family: "Century Gothic", sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.jumbotron p {
+  font-family: "Century Gothic", sans-serif;
+  font-size: 14px;
+  color: #fff;
+}
+
+.bottomline {
+  background-color: #d5ffcb;
+  position: bottom;
+}
+
+.bottomline .container .row {
+  color: #baddb1;
+  font-family: "Century Gothic", sans-serif;
+  font-size: 10px;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.h3 {
+  font-size: 12px;
+  font-family: "Century Gothic", sans-serif;
+  color: #C0C0C0;
+}
