@@ -13,7 +13,7 @@
 }
 
 .jumbotron {
-  /*this is how you write a comment, but also find a good image to put here*/
+  background-image: https://s3-us-west-2.amazonaws.com/autumnvonplinsky/PandoraSphinxBanner.jpg;
   background-color: #baddb1;
   height: 150px;
 }
