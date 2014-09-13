@@ -47,6 +47,9 @@
   padding: 10px;
 }
 
+.thanks {
+  padding-top: 30px;
+}
 .container h2 {
   text-transform: uppercase;
   font-family: "Century Gothic", sans-serif;
