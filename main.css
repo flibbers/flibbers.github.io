@@ -28,9 +28,25 @@
   font-family: "Century Gothic", sans-serif;
   color: #d5ffcb;
 }
-.col-md-4 {
-  padding: 14px;
+.thumbnail1 {
+  padding: 10px;
 }
+.thumbnail2 {
+  padding: 10px;
+}
+.thumbnail3 {
+  padding: 10px;
+}
+.thumbnail4 {
+  padding: 10px;
+}
+.thumbnail5 {
+  padding: 10px;
+}
+.thumbnail6 {
+  padding: 10px;
+}
+
 .container h2 {
   text-transform: uppercase;
   font-family: "Century Gothic", sans-serif;
