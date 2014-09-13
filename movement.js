@@ -1,10 +1,11 @@
  $(document).ready(function() {
     $('.thumbnail1').mouseenter(function() {
-        $('.thumbnail1').replaceWith('<img src="https://38.media.tumblr.com/64f6dc7040d8fcfb8e40ebe831373db9/tumblr_nb5h6vWkap1r1pjv2o3_r2_400.jpg">');
-    }); 
-    $('<img src="https://38.media.tumblr.com/64f6dc7040d8fcfb8e40ebe831373db9/tumblr_nb5h6vWkap1r1pjv2o3_r2_400.jpg">').mouseleave(function() {
-        $('<img src="https://38.media.tumblr.com/64f6dc7040d8fcfb8e40ebe831373db9/tumblr_nb5h6vWkap1r1pjv2o3_r2_400.jpg">').replaceWith('<img src="http://31.media.tumblr.com/8665c4aa2a6fecc5fb3b5aa36b6c464a/tumblr_n8q6an9ALt1r1pjv2o1_400.jpg">');
+        $('.thumbnail1').fadeOut('slow', .5);
     });
+    $('.thumbnail1').mouseleave(function() {
+        $('.thumbnail').fadeOut('slow', 1);
+    });
+    }
     $('.thumbnail1').mouseleave(function() {
         $('.thumbnail1').replaceWith('<img src="http://31.media.tumblr.com/8665c4aa2a6fecc5fb3b5aa36b6c464a/tumblr_n8q6an9ALt1r1pjv2o1_400.jpg">')
     });
