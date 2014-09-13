@@ -28,7 +28,9 @@
   font-family: "Century Gothic", sans-serif;
   color: #d5ffcb;
 }
-
+.col-md-4 {
+  padding: 14px;
+}
 .container h2 {
   text-transform: uppercase;
   font-family: "Century Gothic", sans-serif;
