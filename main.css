@@ -10,6 +10,7 @@
 
 .nav li {
   display: inline;
+  padding-top: 20px;
 }
 
 .jumbotron {
@@ -47,9 +48,6 @@
   padding: 10px;
 }
 
-.thanks {
-  padding: 50px;
-}
 .container h2 {
   text-transform: uppercase;
   font-family: "Century Gothic", sans-serif;
@@ -82,7 +80,7 @@
   font-size: 10px;
   font-weight: normal;
   text-transform: uppercase;
-  padding: 50px;
+  margin: 50px;
 }
 
 
