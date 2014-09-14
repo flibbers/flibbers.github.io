@@ -13,7 +13,7 @@
 }
 
 .jumbotron {
-  background-image: https://s3-us-west-2.amazonaws.com/autumnvonplinsky/PandoraSphinxBanner.jpg;
+  background-image: url('https://s3-us-west-2.amazonaws.com/autumnvonplinsky/PandoraSphinxBanner.jpg');
   background-color: #baddb1;
   height: 150px;
 }
@@ -48,7 +48,7 @@
 }
 
 .thanks {
-  margin: 50px;
+  padding: 50px;
 }
 .container h2 {
   text-transform: uppercase;
