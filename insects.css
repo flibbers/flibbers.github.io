@@ -1,4 +1,3 @@
-
 .nav a {
   color: #d8d8d8;
   font-size: 10px;
@@ -10,10 +9,10 @@
 
 .nav li {
   display: inline;
-  padding-top: 20px;
 }
 
 .jumbotron {
+  /*this is how you write a comment, but also find a good image to put here*/
   background-color: #baddb1;
   height: 150px;
 }
@@ -27,27 +26,6 @@
   font-size: 12px;
   font-family: "Century Gothic", sans-serif;
   color: #d5ffcb;
-}
-.thumbnail1 {
-  padding: 10px;
-}
-.thumbnail2 {
-  padding: 10px;
-}
-.thumbnail3 {
-  padding: 10px;
-}
-.thumbnail4 {
-  padding: 10px;
-}
-.thumbnail5 {
-  padding: 10px;
-}
-.thumbnail6 {
-  padding: 10px;
-}
-.thumbnail7 {
-  padding: 10px;
 }
 
 .container h2 {
@@ -84,4 +62,8 @@
   text-transform: uppercase;
 }
 
-
+h3 {
+  font-size: 12px;
+  font-family: "Century Gothic", sans-serif;
+  color: #C0C0C0;
+}
