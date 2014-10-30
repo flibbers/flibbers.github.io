@@ -61,3 +61,11 @@
   font-weight: normal;
   text-transform: uppercase;
 }
+
+#imgleft {
+  float: left;
+}
+
+#imgleft {
+  float:right;
+}
