@@ -63,9 +63,9 @@
 }
 
 #imgleft {
-  float: left;
+  float: right;
 }
 
 #imgright {
-  float:right;
+  float:left;
 }
